@@ -29,6 +29,8 @@ My goal is to continuously learn, build impactful projects, and deepen my unders
 * HTML
 * CSS
 * SQL
+* C/C++
+* Dart
 
 ### Frameworks & Libraries
 
@@ -46,6 +48,7 @@ My goal is to continuously learn, build impactful projects, and deepen my unders
 
 ### Tools & Platforms
 
+* Flutter
 * Git & GitHub
 * Linux
 * Docker
