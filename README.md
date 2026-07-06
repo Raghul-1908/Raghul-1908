@@ -1,14 +1,46 @@
-## Hi there I'm Raghul 👋
+# Hi there, I'm Raghul 👋
 
-### 🚀 B.Tech Information Technology Student | AI Enthusiast | Cybersecurity Learner | Builder
+<h3 align="center">🚀 B.Tech Information Technology Student | AI Enthusiast | Cybersecurity Learner | Builder</h3>
 
-I'm a first-year Information Technology student passionate about solving real-world problems through technology. I enjoy exploring Artificial Intelligence, Cybersecurity, Networking, Self-Hosting, Software Development, and Computer Hardware.
-
-My goal is to continuously learn, build impactful projects, and deepen my understanding of how modern systems work—from machine learning models and web applications to networking infrastructure and operating systems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Cybersecurity+Learner;Data+Science+Explorer;Python+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🔭 Current Focus
+## 👨‍💻 About Me
+
+I'm a first-year Information Technology student passionate about solving real-world problems through technology.
+
+🔹 Artificial Intelligence & Local LLMs
+🔹 Cybersecurity & Networking
+🔹 Data Science & Analytics
+🔹 Self-Hosting & Linux
+🔹 Software Development & Automation
+
+My goal is to continuously learn, build impactful projects, and deepen my understanding of modern technologies—from machine learning models and web applications to networking infrastructure and operating systems.
+
+---
+
+## 🔗 Connect With Me
+
+<p align="left">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ig.raghulsekar@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🚀 Current Focus
 
 * Artificial Intelligence & Local LLMs
 * Cybersecurity Fundamentals
@@ -20,55 +52,92 @@ My goal is to continuously learn, build impactful projects, and deepen my unders
 
 ---
 
-## 🛠️ Technologies & Tools
+## ⚡ Tech Stack
 
 ### Languages
 
-* Python
-* JavaScript
-* HTML
-* CSS
-* SQL
-* C/C++
-* Dart
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,mysql,c,cpp,dart" />
+</p>
 
 ### Frameworks & Libraries
 
-* Flask
-* FastAPI
-* React
-* Tailwind CSS
-* CustomTkinter
-* Transformers
-
-### Databases
-
-* SQLite
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=flask,react,tailwind,fastapi" />
+</p>
 
 ### Tools & Platforms
 
-* Flutter
-* Git & GitHub
-* Linux
-* Docker
-* Ollama
-* VS Code
-* Android Studio
-* Termux
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,git,github,linux,docker,vscode,androidstudio" />
+</p>
 
 ---
 
-## 💡 Projects I Enjoy Building
+## 🛠️ Tools I Use Daily
 
-* AI-powered applications
-* Student productivity systems
-* Chatbots and virtual assistants
-* Local LLM integrations
-* Self-hosted services
-* Automation tools
-* Networking solutions
-* Data science projects
+| Development    | AI & Data    | System & DevOps |
+| -------------- | ------------ | --------------- |
+| VS Code        | Ollama       | Linux           |
+| Android Studio | Transformers | Docker          |
+| GitHub         | Pandas       | Self Hosting    |
+| Flutter        | NumPy        | Networking      |
+
+---
+
+## 🚧 Current Projects
+
+### 🤖 Student AI Assistant
+
+* Flask
+* SQLite
+* Ollama
+* Student Productivity Features
+
+### 🧠 Local LLM Experiments
+
+* Gemma
+* TinyLlama
+* RAG Workflows
+* Offline AI Systems
+
+### 📊 Data Science Projects
+
+* Python
+* Pandas
+* Data Visualization
+* Analytics
+
+### 🌐 Networking & Self-Hosting
+
+* VPN Solutions
+* Local Servers
+* Infrastructure Experiments
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -86,24 +155,32 @@ My goal is to continuously learn, build impactful projects, and deepen my unders
 ## 📈 GitHub Goals
 
 * Build projects consistently
-* Contribute to open source
+* Contribute to Open Source
 * Learn new technologies every month
-* Create solutions that are useful and practical
+* Create practical and useful solutions
 * Document my learning journey publicly
 
 ---
 
 ## ⚡ Fun Facts
 
-* I enjoy experimenting with hardware and networking devices.
-* I like understanding how systems work under the hood.
-* I'm always exploring new technologies and tools.
-* I believe the best way to learn is by building.
+* 🔧 I enjoy experimenting with hardware and networking devices.
+* 🧠 I like understanding how systems work under the hood.
+* 🚀 I'm always exploring new technologies and tools.
+* 📚 I believe the best way to learn is by building.
 
 ---
 
-### 📫 Connect With Me
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
+</p>
+
+---
+
+### 📫 Let's Connect
 
 Feel free to explore my repositories and follow my journey as I continue learning, building, and sharing projects.
 
-> "Every expert was once a beginner who refused to quit."
+> *"Every expert was once a beginner who refused to quit."*
