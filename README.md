@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a first-year Information Technology student passionate about solving real-world problems through technology.
+I'm a Second-year Information Technology student passionate about solving real-world problems through technology.
 
 🔹 Artificial Intelligence & Local LLMs
 🔹 Cybersecurity & Networking
