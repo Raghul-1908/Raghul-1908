@@ -133,5 +133,4 @@ Experimenting with local servers, VPN technologies, networking, and self-hosted 
   <br/><br/>
   <i>"The best way to understand technology is to build with it."</i>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=Raghul-1908&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
 </p>
