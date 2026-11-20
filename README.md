@@ -1,154 +1,137 @@
-# Hi there, I'm Raghul 👋
+# Hey, I'm Raghul Sekar 👋
 
-<h3 align="center">🚀 B.Tech Information Technology Student | AI Enthusiast | Cybersecurity Learner | Builder</h3>
+### Building, experimenting, and exploring what's possible with technology.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI+Enthusiast;Cybersecurity+Learner;Data+Science+Explorer;Python+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Information+Technology+Student;AI+%26+Local+LLM+Enthusiast;Cybersecurity+%26+Networking+Learner;Python+%26+Software+Developer;Self-Hosting+%26+Automation+Explorer" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Raghul-1908">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/raghul-sekar-ig">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ig.raghulsekar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## `$ whoami`
 
-I'm a Second-year Information Technology student passionate about solving real-world problems through technology.
+I'm a second-year **B.Tech Information Technology student** with a strong curiosity about how technology works beneath the surface.
 
-🔹 Artificial Intelligence & Local LLMs
-🔹 Cybersecurity & Networking
-🔹 Data Science & Analytics
-🔹 Self-Hosting & Linux
-🔹 Software Development & Automation
+I enjoy going beyond tutorials and experimenting with real-world applications, whether that's running local AI models, building software, exploring network infrastructure, or automating everyday workflows.
 
-My goal is to continuously learn, build impactful projects, and deepen my understanding of modern technologies—from machine learning models and web applications to networking infrastructure and operating systems.
+I'm particularly interested in the intersection of **Artificial Intelligence, Software Engineering, and Systems & Infrastructure**.
 
----
+- 🤖 Exploring AI, local LLMs, and RAG architectures.
+- 🔐 Learning cybersecurity, networking, and system security.
+- 🐍 Building applications and automation tools with Python.
+- 🐧 Experimenting with Linux, Docker, and self-hosted infrastructure.
+- 📱 Developing cross-platform applications with Flutter.
+- ⚙️ Understanding how software and systems work under the hood.
 
-## 🔗 Connect With Me
+## 🧭 What I'm Exploring
 
-<p align="left">
-<a href="https://github.com/Raghul-1908">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| Area | Interests |
+|:---|:---|
+| 🤖 Artificial Intelligence | Local LLMs, Ollama, RAG, Transformers |
+| 🔐 Cybersecurity | Networking, Linux security, fundamentals |
+| 💻 Software Engineering | Python, APIs, full-stack development |
+| 📊 Data Science | Pandas, NumPy, analytics, visualization |
+| 🖥️ Infrastructure | Linux, Docker, self-hosting, VPNs |
+| 📱 Application Development | Flutter, Android, desktop applications |
 
-<a href="https://linkedin.com/in/raghul-sekar-ig">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ig.raghulsekar@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 🚀 Current Focus
-
-* Artificial Intelligence & Local LLMs
-* Cybersecurity Fundamentals
-* Full-Stack Development
-* Networking & Self-Hosted Services
-* Data Science & Analytics
-* Linux & System Administration
-* Mobile and Desktop Application Development
-
----
-
-## ⚡ Tech Stack
+## 🛠️ Technology Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,sqlite,mysql,c,cpp,dart" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c,cpp,dart,sqlite,mysql" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=flask,react,tailwind,fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,react,tailwind,flutter" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,git,github,linux,docker,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,vscode,androidstudio" />
 </p>
 
----
+### AI & Data Ecosystem
 
-## 🛠️ Tools I Use Daily
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+</p>
 
-| Development    | AI & Data    | System & DevOps |
-| -------------- | ------------ | --------------- |
-| VS Code        | Ollama       | Linux           |
-| Android Studio | Transformers | Docker          |
-| GitHub         | Pandas       | Self Hosting    |
-| Flutter        | NumPy        | Networking      |
-
----
-
-## 🚧 Current Projects
+## 🚀 Things I'm Building & Experimenting With
 
 ### 🤖 Student AI Assistant
+Developing an AI-powered productivity assistant focused on useful student workflows.
 
-* Flask
-* SQLite
-* Ollama
-* Student Productivity Features
+`Python` `Flask` `SQLite` `Ollama`
 
-### 🧠 Local LLM Experiments
+### 🧠 Local AI & LLM Experiments
+Exploring locally hosted language models, offline AI systems, and retrieval-augmented generation.
 
-* Gemma
-* TinyLlama
-* RAG Workflows
-* Offline AI Systems
+`Ollama` `Gemma` `TinyLlama` `RAG`
 
-### 📊 Data Science Projects
+### 📊 Data Science Experiments
+Working with datasets, data manipulation, exploratory analysis, and visualization.
 
-* Python
-* Pandas
-* Data Visualization
-* Analytics
+`Python` `Pandas` `NumPy`
 
-### 🌐 Networking & Self-Hosting
+### 🌐 Networking & Self-Hosted Infrastructure
+Experimenting with local servers, VPN technologies, networking, and self-hosted services.
 
-* VPN Solutions
-* Local Servers
-* Infrastructure Experiments
+`Linux` `Docker` `Networking`
 
----
+*Explore my repositories for projects, experiments, and ongoing work.*
 
-## 🎯 Current Learning Journey
+## 📈 GitHub Activity
 
-* Advanced Python Development
-* Machine Learning & AI Systems
-* Cybersecurity Concepts
-* Modern Web Development
-* Cloud & Self-Hosting Technologies
-* Data Science Workflows
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Raghul-1908&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raghul-1908&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
----
+<p align="center">
+  <img width="95%" src="https://streak-stats.demolab.com?user=Raghul-1908&theme=github-dark-blue&hide_border=true" />
+</p>
 
-## 📈 GitHub Goals
+## 🎯 What's Next?
 
-* Build projects consistently
-* Contribute to Open Source
-* Learn new technologies every month
-* Create practical and useful solutions
-* Document my learning journey publicly
+- Build and publish more practical software projects.
+- Deepen my understanding of AI and machine learning.
+- Explore cybersecurity through hands-on labs.
+- Develop stronger Linux and infrastructure skills.
+- Contribute to open-source projects.
+- Turn interesting ideas into working applications.
 
----
+## 💡 Beyond the Code
 
-## ⚡ Fun Facts
-
-* 🔧 I enjoy experimenting with hardware and networking devices.
-* 🧠 I like understanding how systems work under the hood.
-* 🚀 I'm always exploring new technologies and tools.
-* 📚 I believe the best way to learn is by building.
+- 🔧 I enjoy experimenting with hardware and networking devices.
+- 🧩 I like solving problems and understanding the logic behind systems.
+- 🧪 I learn best by experimenting, breaking things, and fixing them.
+- 🚀 I'm always curious about what's happening in the world of technology.
 
 ---
 
-
-### 📫 Let's Connect
-
-Feel free to explore my repositories and follow my journey as I continue learning, building, and sharing projects.
-
-> *"Every expert was once a beginner who refused to quit."*
+<p align="center">
+  <b>Always curious. Always building. Always learning.</b>
+  <br/><br/>
+  <i>"The best way to understand technology is to build with it."</i>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=Raghul-1908&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
+</p>
