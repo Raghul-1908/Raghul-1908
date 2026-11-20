@@ -210,5 +210,4 @@ Status: Always learning
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raghul-1908&style=flat-square&color=39D353&label=VISITORS" />
   <br/><br/>
-  <code>root@curiosity:~# Keep exploring. Keep building. Exit 0.</code>
 </p>
